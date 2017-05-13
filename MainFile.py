@@ -5,6 +5,8 @@ SecondaryFile.printme("toto")
 
 SecondaryFile.printme("tata")
 
-SecondaryFile.printme3("tete")
+thirdfile.printme3("tete")
 
-SecondaryFile.printme3("toto")
+thirdfile.printme3("toto")
+
+thirdfile.printme3too("toto")
