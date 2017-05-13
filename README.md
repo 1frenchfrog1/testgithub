@@ -1,2 +1,2 @@
 # testgithub
-This is the first test of PyChamr with Github
+This is the first test of PyCharm with Github
