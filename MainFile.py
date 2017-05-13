@@ -2,4 +2,6 @@ import SecondaryFile
 
 SecondaryFile.printme("toto")
 
-SecondaryFile.printme("tutu")
+SecondaryFile.printme("tata")
+
+SecondaryFile.printme("tete")
